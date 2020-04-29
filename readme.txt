@@ -1,9 +1,9 @@
 === Plugin Name ===
 
 Plugin Name:  bulksmsplugin
-Description:  Example plugin for the video tutorial series, "WordPress: Plugin Development", available at Lynda.com.
-Plugin URI:   https://profiles.wordpress.org/specialk
-Author:       Jeff Starr
+Description:  This is bulk sms sending plugin.
+Plugin URI:   http://wordpress.org
+Author:       Ashish Barman
 Version:      1.0
 Text Domain:  bulksmsplugin
 Domain Path:  /languages
