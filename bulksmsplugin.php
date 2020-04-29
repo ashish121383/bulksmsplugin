@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name:  Test Bulk Sms
-Description:  Example plugin for the video tutorial series, "WordPress: Plugin Development", available at Lynda.com.
-Plugin URI:   https://profiles.wordpress.org/specialk
+Description:  Bulk sms plugin developement
+Plugin URI:   https://wordpress.org
 Author:       Ashish Barman
 Version:      1.0
 Text Domain:  bulksmsplugin
